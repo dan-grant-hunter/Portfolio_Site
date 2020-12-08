@@ -9,8 +9,10 @@ title = "Skills"
 subtitle = ""
 
 [design.background]
-color = "white"
-text_color_light = false
+  color = "white"
+
+[feature]
+  text_color_light = false 
 
 # Showcase personal skills or business features.
 # 
