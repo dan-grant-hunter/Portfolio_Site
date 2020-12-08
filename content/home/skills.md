@@ -21,21 +21,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  text_color_light = false
   description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  text_color_light = false
   description = ""  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  text_color_light = false
   description = ""
 
 # Uncomment to use emoji icons.
