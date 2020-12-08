@@ -8,12 +8,9 @@ weight = 30  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
-# Section design
-design:
-  # Use a white background with dark text.
-  background:
-    color: 'white'
-    text_color_light: false
+[design.background]
+color = "white"
+text_color_light = true
 
 # Showcase personal skills or business features.
 # 
