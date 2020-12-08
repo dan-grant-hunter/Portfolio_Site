@@ -9,9 +9,9 @@ title = "Skills"
 subtitle = ""
 
 background:
-  color: 'navy'
+  color: 'white'
   # Text color (true=light or false=dark).
-  text_color_light: true
+  text_color_light: false
 
 # Showcase personal skills or business features.
 # 
