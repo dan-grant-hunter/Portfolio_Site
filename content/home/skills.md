@@ -8,11 +8,6 @@ weight = 30  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
-background:
-  color: 'white'
-  # Text color (true=light or false=dark).
-  text_color_light: false
-
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
