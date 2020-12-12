@@ -1,0 +1,79 @@
+// Title for certificates
+.text-muted {
+    color: $black !important;
+}
+
+// Padding above h3 tag in deployed apps section (featured)
+.mt-3, .my-3 {
+    margin-top: 0.25rem !important;
+}
+
+// Hamburger menu nav menu items colour
+#navbar-main .main-menu-item ul li .nav-link {
+    color: $black;
+}
+
+// Navbar hover colours
+.navbar-nav a:hover {
+  color: #0f62a8 !important;
+  font-weight: 700;
+}
+
+// Remove transition effect from nav menu links
+.navbar-light .navbar-nav>.nav-item>.nav-link,
+.navbar-light .navbar-nav>.nav-item>.nav-link:focus,
+.navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+  -webkit-transition: none;
+  transition: none;
+}
+
+a.card-link:hover {
+    font-weight: 600;
+}
+
+a.btn.btn-primary.btn-lg {
+    font-weight: 600;
+}
+
+a.btn.btn-outline-primary.my-1.mr-1.btn-sm {
+    font-weight: 600;
+}
+
+
+/* ----------  Font Resizing  ---------- */
+
+.navbar {
+    font-size: 1rem;
+}
+
+body {
+    font-size: 1.2rem;
+}
+
+ul.ul-interests li {
+    font-size: 1.2rem;
+}
+
+.portrait-title h2 {
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+.card .card-text p {
+    font-size: 1.2rem;
+}
+
+footer .powered-by {
+    font-size: 1rem;
+}
+
+.media.stream-item .article-style, .card-simple .article-style {
+    font-size: 1.2rem;
+}
+
+.btn.btn-sm, .btn-group-sm > .btn {
+    font-size: .8rem;
+}
