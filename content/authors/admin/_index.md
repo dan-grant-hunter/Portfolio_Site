@@ -6,27 +6,29 @@ title: Dan Grant-Hunter
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Budding Data Scientist
 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Leeds, UK
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include analysing technological solutions to socio-economic issues. This includes cybernetics and systems theory, automation and AI, and blockchain technology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Socio-economic Data Science
+- Cybernetics and Systems Theory
+- Blockchain Technology
+- Automation and AI
+- Natural Language Processing
 
-education:
-  courses:
-  - course: BSc in Psychology
-    institution: Kingston University London
-    year: 2015
+# education:
+#  courses:
+#  - course: BSc in Psychology
+#    institution: Kingston University London
+#    year: 2015
 
 
 # Social/Academic Networking
@@ -60,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Python programmer pursuing a career in data science and machine learning. Experienced in using Python's various scientific libraries (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) to clean and analyse data as well as build and train models. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+An avid learner always keen to work with new technologies, especially those that involve complex data analysis and machine learning. 
