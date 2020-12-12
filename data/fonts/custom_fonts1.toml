@@ -1,0 +1,11 @@
+# Font style metadata
+name = "custom_fonts1"
+
+# Optional Google font URL
+google_fonts = "family=Gruppo&family=Michroma"
+
+# Font families
+heading_font = "Michroma"
+body_font = "Gruppo"
+nav_font = "Gruppo"
+mono_font = "Gruppo"

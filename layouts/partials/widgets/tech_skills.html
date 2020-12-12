@@ -1,0 +1,52 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Accomplishments widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}{{ . }}{{ end }}
+
+    {{ if $page.Params.item }}
+    {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
+      <div class="card experience course">
+        <div class="card-body">
+          <div class="container">
+            <div class="row">
+                <div class="col">
+                  <i class="fab fa-python"></i>&nbsp;Python<br>
+                  <i class="fas fa-table"></i>&nbsp;Pandas<br>
+                  <i class="fas fa-square-root-alt"></i>&nbsp;Numpy<br>
+                  <i class="far fa-chart-bar"></i>&nbsp;Matplotlib<br>
+                  <i class="fas fa-chart-pie"></i>&nbsp;Seaborn<br>
+                  <i class="fas fa-robot"></i>&nbsp;Scikit-learn<br>
+                  <i class="fas fa-subscript"></i>&nbsp;Statsmodels<br>
+                  <i class="fas fa-file-code"></i>&nbsp;Beautiful Soup<br>
+                  <i class="fas fa-spell-check"></i>&nbsp;Selenium<br>
+                </div>
+                <div class="col">
+                  <i class="fas fa-database"></i>&nbsp;SQL<br>
+                  <i class="fas fa-laptop-code"></i>&nbsp;Web Scraping<br>
+                  <i class="fas fa-file-alt"></i>&nbsp;NLP<br>
+                  <i class="fas fa-filter"></i>&nbsp;Regex<br>
+                  <i class="fab fa-html5"></i>&nbsp;HTML<br>
+                  <i class="fab fa-css3-alt"></i>&nbsp;CSS<br>
+                </div>
+                <div class="col">
+                  <i class="fas fa-code-branch"></i>&nbsp;Git<br>
+                  <i class="fab fa-linux"></i>&nbsp;Linux Shell<br>
+                  <i class="fas fa-file-excel"></i>&nbsp;Excel<br>
+                  <i class="fas fa-chart-line"></i>&nbsp;Power BI<br>
+                  <i class="fas fa-calculator"></i>&nbsp;SPSS<br>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{end}}
+    {{end}}
+  </div>
+</div>
