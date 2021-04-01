@@ -64,6 +64,7 @@ h1 {
 
 .card .card-text p {
     font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.8);
 }
 
 footer .powered-by {
@@ -76,4 +77,12 @@ footer .powered-by {
 
 .btn.btn-sm, .btn-group-sm > .btn {
     font-size: .8rem;
+}
+
+.article-metadata a {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.article-metadata {
+    color: rgba(0, 0, 0, 0.8);
 }
