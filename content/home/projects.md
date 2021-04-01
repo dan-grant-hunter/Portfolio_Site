@@ -24,11 +24,11 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-
+    
   [[content.filter_button]]
     name = "Regression"
     tag = "Regression"
-
+    
   [[content.filter_button]]
     name = "Classification"
     tag = "Classification"
@@ -36,6 +36,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Clustering"
     tag = "Clustering"
+    
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
     
   [[content.filter_button]]
     name = "Other"
