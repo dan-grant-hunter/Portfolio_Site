@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-Python programmer pursuing a career in data science and machine learning. Experienced in using Python's various scientific libraries (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) to clean and analyse data as well as train and evaluate models. 
+Data professional pursuing a career in data science and machine learning. Experienced in using Python's various scientific libraries (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn) to clean and analyse data as well as train and evaluate models. 
 
 An avid learner always keen to work with new technologies, especially those that involve complex data analysis and machine learning. 
