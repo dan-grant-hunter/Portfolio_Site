@@ -11,7 +11,7 @@ role: Budding Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Leeds, UK
+- name: High Wycombe, UK
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
