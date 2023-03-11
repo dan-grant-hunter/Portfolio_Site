@@ -11,7 +11,7 @@ role: Budding Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Oxfordshire, UK
+- name: Surrey, UK
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
