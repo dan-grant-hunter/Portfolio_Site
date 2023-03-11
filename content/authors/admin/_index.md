@@ -6,7 +6,7 @@ title: Dan Grant-Hunter
 superuser: true
 
 # Role/position
-role: Budding Data Scientist
+role: Data Analyst / Data Scientist
 
 
 # Organizations/Affiliations
