@@ -15,7 +15,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include analysing technological solutions to socio-economic issues. This includes cybernetics and systems theory, automation and AI, and blockchain technology.
+bio:
 
 # education:
 #  courses:
