@@ -17,13 +17,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include analysing technological solutions to socio-economic issues. This includes cybernetics and systems theory, automation and AI, and blockchain technology.
 
-interests:
-- Socio-economic Data Science
-- Cybernetics and Systems Theory
-- Blockchain Technology
-- Automation and AI
-- Natural Language Processing
-
 # education:
 #  courses:
 #  - course: BSc in Psychology
